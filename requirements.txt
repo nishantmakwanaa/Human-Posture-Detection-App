@@ -10,3 +10,4 @@ PyQt5-stubs==5.15.6.0
 qt-material==2.14
 yolov5==7.0.11
 pyopengl
+streamlit
